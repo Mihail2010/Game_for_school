@@ -1,0 +1,1 @@
+room_go = rm_end;

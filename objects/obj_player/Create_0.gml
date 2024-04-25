@@ -1,0 +1,11 @@
+global.player_speed = 1;
+position_stop = "left"
+hit = 1;
+timer=1;
+time = 1;
+time = timer;
+time_run = 0.1;
+timer_run=0.1;
+time_run = timer_run;
+global.endurance = 10;
+global.hp_player = 30;
